@@ -1,0 +1,100 @@
+.body{
+    margin: 0;
+}
+.container{
+    text-align: center;
+    font-size: 0px;
+}
+.resume-contents{
+    margin-right:20rem;
+    padding-right:20rem;
+}
+.left{
+    display: inline-block;
+    background-color: #34495E;;
+    width:23rem;
+    
+}
+.right{
+    display: inline-block;
+    background-color: #D6DBDF;
+    width:45rem;
+    height:auto;
+    position: absolute;
+}
+img{
+    width:13rem;
+    border:5px solid black;
+    border-radius:50%;
+}
+.profile{
+    padding-top:20px;
+}
+.profile h4{
+    padding-top: 20px;
+}
+.line{
+    width:15rem;
+    height: 2px;
+    background-color:lightblue;
+    border-radius: 15%;
+    position:relative;
+    left:2.8rem;
+}
+.leftTopic{
+    padding-top:1.5rem;
+    margin: 2.46rem auto;
+}
+
+.topicContent > *{
+    font-size: 16px;
+    list-style: none;
+    padding-top: 0.2rem;
+}
+#topicContent li{
+    text-align: left;
+}
+.right h1{
+    text-align:left;
+    color: #34495E;
+}
+.right h6{
+    text-align: initial;
+}
+.Education{
+    margin:3rem auto;
+}
+th,td{
+    padding:20px;
+    border: 2px solid;
+}
+table{
+    margin:2rem auto;
+    border: 2px solid;
+}
+.right h6{
+    margin:1rem auto;
+}
+.topicContent li i{
+    padding-right: 10px;
+}
+h4,h5{
+    color: #D6DBDF;
+}
+i{
+    color: #2E86C1
+}
+.topicContent ul li{
+    color: #d6dbdfaf
+}
+.aboutME{
+    margin:1rem auto;
+}
+.aboutME h6{
+    line-height: 2rem;
+}
+th h6{
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
